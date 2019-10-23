@@ -1,0 +1,198 @@
+# Codigos de Bancos Ativos no Brasil
+### Códigos de Bancos Brasileiros e Aplicativos Oficiais
+
+- 117 &nbsp;  **Advanced Corretora de Câmbio Ltda.**
+- 172 &nbsp;  **Albatross Corretora de Câmbio e Valores S.A**
+- 188 &nbsp;  **Ativa Investimentos S.A. Corretora de Títulos Câmbio e Valores**
+- 654 &nbsp;  **Banco A.J. Renner S.A.**
+- 246 &nbsp;  **Banco ABC Brasil S.A.**
+- 075 &nbsp;  **Banco ABN Amro S.A.**
+- 121 &nbsp;  **Banco Agibank S.A.**
+- 025 &nbsp;  **Banco Alfa S.A.**
+- 641 &nbsp;  **Banco Alvorada S.A.**
+- 065 &nbsp;  **Banco Andbank (Brasil) S.A.**
+- 213 &nbsp;  **Banco Arbi S.A.**
+- 024 &nbsp;  **Banco Bandepe S.A.**
+- 740 &nbsp;  **Banco Barclays S.A.**
+- 096 &nbsp;  **Banco BM&FBovespa**
+- 318 &nbsp;  **Banco BMG S.A.**
+- 752 &nbsp;  **Banco BNP Paribas Brasil S.A.**
+- 248 &nbsp;  **Banco Boavista Interatlântico S.A.**
+- 107 &nbsp;  **Banco Bocom BBM S.A.**
+- 063 &nbsp;  **Banco Bradescard S.A.**
+- 036 &nbsp;  **Banco Bradesco BBI S.A.**
+- 122 &nbsp;  **Banco Bradesco BERJ S.A.**
+- 204 &nbsp;  **Banco Bradesco Cartões S.A.**
+- 394 &nbsp;  **Banco Bradesco Financiamentos S.A.**
+- 237 &nbsp;  **Banco Bradesco S.A.**
+- 125 &nbsp;  **Banco Brasil Plural S.A. – Banco Múltiplo**
+- 081 &nbsp;  **Banco Brasileiro de Negócios S.A. – BBN**
+- 218 &nbsp;  **Banco BS2 S.A.**
+- 208 &nbsp;  **Banco BTG Pactual S.A.**
+- 473 &nbsp;  **Banco Caixa Geral – Brasil S.A.**
+- 412 &nbsp;  **Banco Capital S.A.**
+- 040 &nbsp;  **Banco Cargill S.A.**
+- 266 &nbsp;  **Banco Cédula S.A.**
+- 739 &nbsp;  **Banco Cetelem S.A.**
+- 233 &nbsp;  **Banco Cifra S.A.**
+- 745 &nbsp;  **Banco Citibank S.A.**
+- 241 &nbsp;  **Banco Clássico S.A.**
+- 095 &nbsp;  **Banco Confidence de Câmbio S.A.**
+- 756 &nbsp;  **Banco Cooperativo do Brasil S.A. – Bancoob**
+- 748 &nbsp;  **Banco Cooperativo Sicredi S.A.**
+- 222 &nbsp;  **Banco Credit Agricole Brasil S.A.**
+- 505 &nbsp;  **Banco Credit Suisse (Brasil) S.A.**
+- 069 &nbsp;  **Banco Crefisa S.A.**
+- 003 &nbsp;  **Banco da Amazônia S.A.**
+- 083 &nbsp;  **Banco da China Brasil S.A.**
+- 707 &nbsp;  **Banco Daycoval S.A.**
+- 070 &nbsp;  **Banco de Brasília S.A. (BRB)**
+- 250 &nbsp;  **Banco de Crédito e Varejo S.A. – BCV**
+- 505 &nbsp;  **Banco de Investimento Credit Suisse (Brasil) S.A.**
+- 300 &nbsp;  **Banco de La Nacion Argentina**
+- 495 &nbsp;  **Banco de La Provincia de Buenos Aires**
+- 494 &nbsp;  **Banco de La Republica Oriental del Uruguay**
+- 001 &nbsp;  **Banco do Brasil S.A.**
+- 047 &nbsp;  **Banco do Estado de Sergipe S.A.**
+- 021 &nbsp;  **Banco do Estado do Espírito Santo – Baneste S.A.**
+- 037 &nbsp;  **Banco do Estado do Pará S.A.**
+- 041 &nbsp;  **Banco do Estado do Rio Grande do Sul S.A.**
+- 004 &nbsp;  **Banco do Nordeste do Brasil S.A.**
+- 265 &nbsp;  **Banco Fator S.A.**
+- 224 &nbsp;  **Banco Fibra S.A.**
+- 626 &nbsp;  **Banco Ficsa S.A.**
+- 094 &nbsp;  **Banco Finaxis S.A.**
+- 612 &nbsp;  **Banco Guanabara S.A.**
+- 012 &nbsp;  **Banco Inbursa S.A.**
+- 604 &nbsp;  **Banco Industrial do Brasil S.A.**
+- 653 &nbsp;  **Banco Indusval S.A.**
+- 077 &nbsp;  **Banco Inter S.A.**
+- 630 &nbsp;  **Banco Intercap S.A.**
+- 719 &nbsp;  **Banco Internacional do Funchal (Brasil) S.A. – Banif**
+- 249 &nbsp;  **Banco Investcred Unibanco S.A.**
+- 184 &nbsp;  **Banco Itaú BBA S.A.**
+- 029 &nbsp;  **Banco Itaú Consignado S.A.**
+- 652 &nbsp;  **Banco Itaú Unibanco Holding S.A.**
+- 341 &nbsp;  **Banco Itaú Unibanco S.A.**
+- 479 &nbsp;  **Banco ItauBank S.A**
+- 376 &nbsp;  **Banco J. P. Morgan S.A.**
+- 074 &nbsp;  **Banco J. Safra S.A.**
+- 217 &nbsp;  **Banco John Deere S.A.**
+- 076 &nbsp;  **Banco KDB S.A.**
+- 757 &nbsp;  **Banco Keb Hana do Brasil S.A.**
+- 600 &nbsp;  **Banco Luso Brasileiro S.A.**
+- 243 &nbsp;  **Banco Máxima S.A.**
+- 389 &nbsp;  **Banco Mercantil do Brasil S.A.**
+- 370 &nbsp;  **Banco Mizuho do Brasil S.A.**
+- 746 &nbsp;  **Banco Modal S.A.**
+- 066 &nbsp;  **Banco Morgan Stanley S.A.**
+- 456 &nbsp;  **Banco MUFG Brasil S.A.**
+- 007 &nbsp;  **Banco Nacional de Desenvolvimento Econômico e Social – BNDES**
+- 735 &nbsp;  **Banco Neon S.A.**
+- 169 &nbsp;  **Banco Olé Bonsucesso Consignado S.A.**
+- 079 &nbsp;  **Banco Original do Agronegócio S.A.**
+- 212 &nbsp;  **Banco Original S.A.**
+- 712 &nbsp;  **Banco Ourinvest S.A.**
+- 623 &nbsp;  **Banco Pan S.A.**
+- 611 &nbsp;  **Banco Paulista S.A.**
+- 643 &nbsp;  **Banco Pine S.A.**
+- 747 &nbsp;  **Banco Rabobank International Brasil S.A.**
+- 088 &nbsp;  **Banco Randon S.A.**
+- 633 &nbsp;  **Banco Rendimento S.A.**
+- 741 &nbsp;  **Banco Ribeirão Preto S.A.**
+- 120 &nbsp;  **Banco Rodobens S.A.**
+- 422 &nbsp;  **Banco Safra S.A.**
+- 033 &nbsp;  **Banco Santander (Brasil) S.A.**
+- 743 &nbsp;  **Banco Semear S.A.**
+- 754 &nbsp;  **Banco Sistema S.A.**
+- 366 &nbsp;  **Banco Société Générale Brasil S.A.**
+- 637 &nbsp;  **Banco Sofisa S.A.**
+- 464 &nbsp;  **Banco Sumitomo Mitsui Brasileiro S.A.**
+- 082 &nbsp;  **Banco Topázio S.A.**
+- 634 &nbsp;  **Banco Triângulo S.A.**
+- 018 &nbsp;  **Banco Tricury S.A.**
+- 655 &nbsp;  **Banco Votorantim S.A.**
+- 610 &nbsp;  **Banco VR S.A.**
+- 119 &nbsp;  **Banco Western Union do Brasil S.A.**
+- 124 &nbsp;  **Banco Woori Bank do Brasil S.A.**
+- 755 &nbsp;  **Bank of America Merrill Lynch Banco Múltiplo S.A.**
+- 268 &nbsp;  **Barigui Companhia Hipotecária**
+- 144 &nbsp;  **Bexs Banco de Câmbio S.A.**
+- 253 &nbsp;  **Bexs Corretora de Câmbio S.A.**
+- 134 &nbsp;  **BGC Liquidez Distribuidora de Títulos e Valores Mobiliários Ltda.**
+- 017 &nbsp;  **BNY Mellon Banco S.A.**
+- 126 &nbsp;  **BR Partners Banco de Investimento S.A.**
+- 092 &nbsp;  **Brickell (BRK) S.A. Crédito, Financiamento e Investimento**
+- 173 &nbsp;  **BRL Trust Distribuidora de Títulos e Valores Mobiliários S.A.**
+- 142 &nbsp;  **Broker Brasil Corretora de Câmbio Ltda.**
+- 080 &nbsp;  **BT Corretora de Câmbio Ltda.**
+- 104 &nbsp;  **Caixa Econômica Federal**
+- 130 &nbsp;  **Caruana S.A. Sociedade de Crédito, Financiamento e Investimento**
+- 159 &nbsp;  **Casa do Crédito S.A. Sociedade de Crédito ao Microempreendedor**
+- 114 &nbsp;  **Central Cooperativa de Crédito no Estado do Espírito Santo – CECOOP**
+- 091 &nbsp;  **Central de Cooperativas de Economia e Crédito Mútuo do Estado RS – Unicred**
+- 320 &nbsp;  **China Construction Bank (Brasil) Banco Múltiplo S.A.**
+- 477 &nbsp;  **Citibank N.A.**
+- 127 &nbsp;  **Codepe Corretora de Valores e Câmbio S.A.**
+- 163 &nbsp;  **Commerzbank Brasil S.A. – Banco Múltiplo**
+- 136 &nbsp;  **Confederação Nacional das Cooperativas Centrais Unicred Ltda (Unicred do Brasil)**
+- 060 &nbsp;  **Confidence Corretora de Câmbio S.A.**
+- 097 &nbsp;  **Cooperativa Central de Crédito Noroeste Brasileiro Ltda. (CentralCredi)**
+- 085 &nbsp;  **Cooperativa Central de Crédito Urbano – Cecred**
+- 016 &nbsp;  **Cooperativa de Crédito Mútuo dos Despachantes de Trânsito de Sta.Catarina e RS**
+- 089 &nbsp;  **Cooperativa de Crédito Rural da Região da Mogiana**
+- 010 &nbsp;  **Credicoamo Crédito Rural Cooperativa**
+- 011 &nbsp;  **Credit Suisse Hedging-Griffo Corretora de Valores S.A.**
+- 133 &nbsp;  **Cresol – Confederação Nacional Cooperativas Centrais de Crédito e Econ Familiar**
+- 182 &nbsp;  **Dacasa Financeira S/A – Sociedade de Crédito, Financiamento e Investimento**
+- 487 &nbsp;  **Deutsche Bank S.A. – Banco Alemão**
+- 140 &nbsp;  **Easynvest – Título Corretora de Valores SA**
+- 149 &nbsp;  **Facta Financeira S.A. – Crédito Financiamento e Investimento**
+- 196 &nbsp;  **Fair Corretora de Câmbio S.A.**
+- 138 &nbsp;  **Get Money Corretora de Câmbio S.A.**
+- 064 &nbsp;  **Goldman Sachs do Brasil Banco Múltiplo S.A.**
+- 135 &nbsp;  **Gradual Corretora de Câmbio, Títulos e Valores Mobiliários S.A.**
+- 177 &nbsp;  **Guide Investimentos S.A. Corretora de Valores**
+- 146 &nbsp;  **Guitta Corretora de Câmbio Ltda.**
+- 078 &nbsp;  **Haitong Banco de Investimento do Brasil S.A.**
+- 062 &nbsp;  **Hipercard Banco Múltiplo S.A.**
+- 189 &nbsp;  **HS Financeira S/A Crédito, Financiamento e Investimentos**
+- 269 &nbsp;  **HSBC Brasil S.A. Banco de Investimento**
+- 271 &nbsp;  **IB Corretora de Câmbio, Títulos e Valores Mobiliários Ltda.**
+- 157 &nbsp;  **ICAP do Brasil Corretora de Títulos e Valores Mobiliários Ltda.**
+- 132 &nbsp;  **ICBC do Brasil Banco Múltiplo S.A.**
+- 492 &nbsp;  **ING Bank N.V.**
+- 139 &nbsp;  **Intesa Sanpaolo Brasil S.A. – Banco Múltiplo**
+- 488 &nbsp;  **JPMorgan Chase Bank, National Association**
+- 399 &nbsp;  **Kirton Bank S.A. (Banco Múltiplo)**
+- 105 &nbsp;  **Lecca Crédito, Financiamento e Investimento S/A**
+- 145 &nbsp;  **Levycam – Corretora de Câmbio e Valores Ltda.**
+- 113 &nbsp;  **Magliano S.A. Corretora de Cambio e Valores Mobiliarios**
+- 128 &nbsp;  **MS Bank S.A. Banco de Câmbio**
+- 137 &nbsp;  **Multimoney Corretora de Câmbio Ltda**
+- 014 &nbsp;  **Natixis Brasil S.A. Banco Múltiplo**
+- 191 &nbsp;  **Nova Futura Corretora de Títulos e Valores Mobiliários Ltda.**
+- 753 &nbsp;  **Novo Banco Continental S.A. – Banco Múltiplo**
+- 260 &nbsp;  **Nu Pagamentos S.A**
+- 111 &nbsp;  **Oliveira Trust Distribuidora de Títulos e Valores Mobiliários S.A.**
+- 613 &nbsp;  **Omni Banco S.A.**
+- 254 &nbsp;  **Paraná Banco S.A.**
+- 194 &nbsp;  **Parmetal Distribuidora de Títulos e Valores Mobiliários Ltda.**
+- 174 &nbsp;  **Pernambucanas Financiadora S.A. Crédito, Financiamento e Investimento**
+- 100 &nbsp;  **Planner Corretora de Valores S.A.**
+- 093 &nbsp;  **Pólocred Sociedade de Crédito ao Microempreendedor e Empresa de Pequeno Porte**
+- 108 &nbsp;  **PortoCred S.A. Crédito, Financiamento e Investimento**
+- 101 &nbsp;  **Renascença Distribuidora de Títulos e Valores Mobiliários Ltda.**
+- 751 &nbsp;  **Scotiabank Brasil S.A. Banco Múltiplo**
+- 545 &nbsp;  **Senso Corretora de Câmbio e Valores Mobiliários S.A.**
+- 190 &nbsp;  **Servicoop – Cooperativa de Economia e Crédito Mútuo dos Servidores Públicos Estaduais do Rio**
+- 183 &nbsp;  **Socred S.A. – Sociedade de Crédito ao Microempreendedor**
+- 118 &nbsp;  **Standard Chartered Bank (Brasil) S.A. Banco de Investimento**
+- 197 &nbsp;  **Stone Pagamentos S.A.**
+- 143 &nbsp;  **Treviso Corretora de Câmbio S.A.**
+- 131 &nbsp;  **Tullett Prebon Brasil Corretora de Valores e Câmbio Ltda.**
+- 129 &nbsp;  **UBS Brasil Banco de Investimento S.A.**
+- 015 &nbsp;  **UBS Brasil Corretora de Câmbio, Títulos e Valores Mobiliários S.A.**
+- 099 &nbsp;  **Uniprime Central – Central Interestadual de Cooperativas de Crédito Ltda.**
+- 084 &nbsp;  **Uniprime Norte do Paraná – Cooperativa de Crédito Ltda.**
+- 102 &nbsp;  **XP Investimentos Corretora de Câmbio, Títulos e Valores Mobiliários S/A**
